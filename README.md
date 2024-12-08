@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi 👋
 
-I am Backend Developer Enthusiast who has experience as Java Developer.
+I am Backend Developer who has experience as Java Developer.
 
 <!--
 **amsatrio/amsatrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
